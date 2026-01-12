@@ -18,3 +18,6 @@ C:\Users\quycl\eclipse-workspace\HelloWorld\src\main>dir
 12/01/2026  12.31               170 HelloWorld.java
                2 File(s)            598 bytes
                2 Dir(s)  189 551 570 944 bytes free
+               
+C:\Users\quycl\eclipse-workspace\HelloWorld\src\main>java HelloWorld.java
+Hello World
